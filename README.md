@@ -26,3 +26,4 @@
 Удостоверьтесь, что добавление объектов вашего класса в корзину работает.
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/3vn2264hciv6on1e/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-12-1/branch/main)
